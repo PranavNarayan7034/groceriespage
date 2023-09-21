@@ -1,0 +1,41 @@
+.navbar{
+    background-color: blanchedalmond;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar img{
+    height: 50px;
+    width: 50px;
+}
+.navlink{
+    margin-left: 300px;
+}
+.navlink a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+/* hover --change properties while mouse over  */
+
+.navlink a:hover{
+    color: white;
+    font-size: 30px;
+}
+
+.introimg img{
+    width: 100%;
+    height: 300px;
+}
+.productimg h1{
+    text-align: center;
+}
+
+.myimages img{
+    height: 150px;
+    width: 150px;
+    margin:10px;
+    border: solid 5px black;
+}
